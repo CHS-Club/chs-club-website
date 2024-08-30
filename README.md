@@ -1,4 +1,13 @@
-# CHS Club
+<h1 align="center">Computational Health Sciences Club Website</h1>
+
+<p align="center">
+    <a href="https://github.com/chs-club/chs-club.github.io/actions">
+        <img src="https://github.com/chs-club/chs-club.github.io/actions/workflows/pages.yaml/badge.svg" alt="Build Status ">
+    </a>
+    <a href="https://creativecommons.org/licenses/by/4.0/">
+        <img src="https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg" alt="License">
+    </a>
+</p>
 
 ## Local Development
 
@@ -6,13 +15,15 @@ Pre-requisites: [Hugo](https://gohugo.io/getting-started/installing/), [Go](http
 
 ```shell
 # Clone the repo
-git clone git@github.com:CHS-Club/chs-website.git
+git clone git@github.com:chs-club/chs-website.git
 
 # Change directory
 cd chs-website
 
-# Start the server
+# Install modules
 hugo mod tidy
+
+# Start the server
 hugo server --logLevel debug --disableFastRender -p 1313
 ```
 
