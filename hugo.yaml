@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: Computational Health Sciences Club
+title: CHS Club
 baseURL: https://chs-club.github.io/
 languageCode: en-us
 
@@ -20,21 +20,24 @@ markup:
 
 menu:
   main:
-    - name: Docs
-      pageRef: /docs
-      weight: 1
     - name: About
       pageRef: /about
+      weight: 1
+    - name: Schedule
+      pageRef: /schedule
       weight: 2
+    - name: Handbook
+      pageRef: /handbook
+      weight: 3
     - name: Contact ↗
       url: "https://github.com/chs-club"
-      weight: 3
-    - name: Search
       weight: 4
+    - name: Search
+      weight: 5
       params:
         type: search
     - name: GitHub
-      weight: 5
+      weight: 6
       url: "https://github.com/chs-club/chs-website"
       params:
         icon: github
