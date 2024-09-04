@@ -1,21 +1,52 @@
 ---
-title: Welcome to the Computational Health Sciences Club!
+title: Computational Health Sciences Club
+layout: hextra-home
 toc: false
 ---
 
+<div class="hx-mt-6 hx-mb-6">
+{{< hextra/hero-headline >}}
+  The Computational Health&nbsp;<br class="sm:hx-block hx-hidden" />Sciences Club
+{{< /hextra/hero-headline >}}
+</div>
+
+<div class="hx-mb-12">
+{{< hextra/hero-subtitle >}}
+  Helping students discover opportunities within computational health sciences at Pitt
+{{< /hextra/hero-subtitle >}}
+</div>
+
+<div class="hx-mb-6">
+{{< hextra/hero-button text="Get started" link="handbook" >}}
+</div>
+
 <br>
-Our club's mission is to foster interest in the field of computational health sciences by:
 
--   Hosting speakers to share their experiences working/researching in the field,
--   Assisting students identify and obtain research and internship opportunities, and
--   Leading hands-on extracurricular projects for members to get involved with.
+{{< hextra/feature-grid >}}
+  {{< hextra/feature-card
+    title="Speakers"
+    subtitle="share their experiences"
+    class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
+    image="img/misc/microphone.jpg"
+    imageClass="hx-top-[5%] hx-left-[36px] hx-w-[110%] sm:hx-w-[110%] dark:hx-opacity-80"
+    style="background: radial-gradient(ellipse at 50% 80%,rgba(249,65,68,0.35),hsla(0,0%,100%,0));"
+  >}}
 
-If any of that sounds interesting to you, please peruse our [handbook](./handbook/) and [join us in person](./schedule)!
+  {{< hextra/feature-card
+    title="Opportunities"
+    subtitle="in research and internships"
+    class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
+    image="img/misc/lab.jpg"
+    imageClass="hx-top-[5%] hx-left-[36px] hx-w-[110%] sm:hx-w-[110%] dark:hx-opacity-80"
+    style="background: radial-gradient(ellipse at 50% 80%,rgba(221,210,59,0.35),hsla(0,0%,100%,0));"
+  >}}
 
-## Explore
-
-{{< cards >}}
-  {{< card link="about" title="About" icon="user" >}}
-  {{< card link="schedule" title="Schedule" icon="user" >}}
-  {{< card link="handbook" title="Handbook" icon="book-open" >}}
-{{< /cards >}}
+  {{< hextra/feature-card
+    title="Projects"
+    subtitle="for hands-on experience"
+    class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
+    image="img/misc/project.jpg"
+    imageClass="hx-top-[5%] hx-left-[36px] hx-w-[110%] sm:hx-w-[110%] dark:hx-opacity-80"
+    style="background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.35),hsla(0,0%,100%,0));"
+  >}}
+{{< /hextra/feature-grid >}}
