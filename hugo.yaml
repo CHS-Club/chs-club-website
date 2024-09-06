@@ -3,6 +3,8 @@ title: CHS Club
 baseURL: https://chs-club.github.io/
 languageCode: en-us
 
+enableGitInfo: true
+
 # import hextra as module
 module:
   imports:
@@ -45,11 +47,36 @@ menu:
 params:
   navbar:
     displayTitle: true
-    displayLogo: false
+    displayLogo: true
+    logo:
+      path: img/logo.png
+    width: wide
+  
+  page:
+    width: normal
+  
+  theme:
+    default: system
+    displayToggle: true
 
   footer:
+    enable: true
     displayCopyright: false
     displayPoweredBy: true
+    width: normal
+  
+  displayUpdatedDate: true
+  dateFormat: "January 2, 2006"
+
+  search:
+    enable: true
+    type: flexsearch
+  
+  highlight:
+    copy:
+      enable: true
+      # hover | always
+      display: hover
 
   editURL:
     enable: true
