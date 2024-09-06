@@ -1,8 +1,6 @@
 ---
-title: Research opportunities
+title: Research
 type: docs
-sidebar:
-  open: true
 ---
 
 TODO:
