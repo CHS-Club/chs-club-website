@@ -3,8 +3,6 @@ title: About
 type: about
 ---
 
-This is the about page.
-
 ## Executive board
 
 <!-- Images should be squares -->
