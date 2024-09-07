@@ -5,6 +5,7 @@ type: docs
 
 ![Jacob Durrant](https://www.biology.pitt.edu/sites/default/files/DurrantJ_lg.jpg)
 
+-   **University:** University of Pittsburgh
 -   **Rank:** Associate Professor
 -   **Primary appointment:** Department of Biological Sciences
 -   **Secondary appointment(s):** Department of Computational & Systems Biology

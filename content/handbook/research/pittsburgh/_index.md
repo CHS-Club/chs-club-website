@@ -1,5 +1,5 @@
 ---
-title: Pitt
+title: Pittsburgh
 type: docs
 ---
 
