@@ -3,7 +3,7 @@ title: Fritz Roth
 type: docs
 ---
 
-![](https://www.csb.pitt.edu/wp-content/uploads/2023/08/thumbnail_roth.jpg)
+<img src="https://www.csb.pitt.edu/wp-content/uploads/2023/08/thumbnail_roth.jpg" width="300px">
 
 -   **Rank:** Professor
 -   **Primary appointment:** [Department of Computational and Systems Biology](https://www.csb.pitt.edu/)
@@ -15,11 +15,11 @@ type: docs
 
 TODO:
 
-## Key recent publications
+## Key publications
 
 TODO:
 
-## Current funding
+## Funding
 
 TODO:
 

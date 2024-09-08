@@ -3,10 +3,10 @@ title: Christian Cuba Samaniego
 type: docs
 ---
 
-![]()
+<img src="https://cbd.cmu.edu/people/christian.jpg" width="300px">
 
--   **Rank:**
--   **Primary appointment:**
+-   **Rank:** Assistant Professor
+-   **Primary appointment:** [Ray and Stephanie Lane Computational Biology Department](https://cbd.cmu.edu/)
 -   **Secondary appointment(s):**
 -   **Email:**
 -   **Website:**
@@ -15,11 +15,11 @@ type: docs
 
 TODO:
 
-## Key recent publications
+## Key publications
 
 TODO:
 
-## Current funding
+## Funding
 
 TODO:
 

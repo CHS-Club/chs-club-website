@@ -3,7 +3,7 @@ title: Jacob Durrant
 type: docs
 ---
 
-![Jacob Durrant](https://www.biology.pitt.edu/sites/default/files/DurrantJ_lg.jpg)
+<img src="https://www.biology.pitt.edu/sites/default/files/DurrantJ_lg.jpg" width="300px">
 
 -   **Rank:** Associate Professor
 -   **Primary appointment:** Department of Biological Sciences
@@ -22,7 +22,7 @@ Specifically:
 3.  **Molecular dynamics simulations:** Durrant's team uses molecular dynamics to study protein motions and how they affect ligand binding, including large-scale simulations of subcellular environments.
 4.  **Development of computational tools:** Durrant has created several open-source software tools, such as AutoGrow, POVME, and LigMerge, to assist in drug discovery and molecular analysis.
 
-## Key recent publications
+## Key publications
 
 These publications give you a sample of current projects being undertaken in the lab.
 Obviously, these are not the only projects being worked on and you should contact the PI for more information.
@@ -33,7 +33,7 @@ Obviously, these are not the only projects being worked on and you should contac
 -   Van Wieren, A., Durrant, J. D., & Majumdar, S. (2023). Computational and experimental analyses of alanine racemase suggest new avenues for developing allosteric small‐molecule antibiotics. *Drug Development Research, 84*(5), 999-1007. DOI: [10.1002/ddr.22068](https://doi.org/10.1002/ddr.22068)
 -   Hellemann, E., Walker, J. L., Lesko, M. A., Chandrashekarappa, D. G., Schmidt, M. C., O’Donnell, A. F., & Durrant, J. D. (2022). Novel mutation in hexokinase 2 confers resistance to 2-deoxyglucose by altering protein dynamics. PLoS Computational Biology, 18(3), e1009929. DOI: [10.1371/journal.pcbi.1009929](https://doi.org/10.1371/journal.pcbi.1009929)
 
-## Current funding
+## Funding
 
 TODO:
 

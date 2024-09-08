@@ -3,7 +3,7 @@ title: Hatice Osmanbeyoglu
 type: docs
 ---
 
-![](https://www.isb.pitt.edu/sites/default/files/person-images/Hatice%20photo.jpg)
+<img src="https://www.isb.pitt.edu/sites/default/files/person-images/Hatice%20photo.jpg" width="300px">
 
 -   **Rank:** Assistant Professor
 -   **Primary appointment:** [Department of Biomedical Informatics](https://www.dbmi.pitt.edu/)
@@ -15,11 +15,11 @@ type: docs
 
 TODO:
 
-## Key recent publications
+## Key publications
 
 TODO:
 
-## Current funding
+## Funding
 
 TODO:
 

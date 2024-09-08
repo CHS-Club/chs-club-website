@@ -3,23 +3,23 @@ title: Miler Lee
 type: docs
 ---
 
-![]()
+<img src="https://www.biology.pitt.edu/sites/default/files/person-images/lee_lg.jpg" width="300px">
 
--   **Rank:**
--   **Primary appointment:**
+-   **Rank:** Associate Professor
+-   **Primary appointment:** Department of Biological Sciences
 -   **Secondary appointment(s):**
--   **Email:**
--   **Website:**
+-   **Email:** <miler@pitt.edu>
+-   **Website:** <https://mtleelab.pitt.edu/>
 
 ## Research focus
 
 TODO:
 
-## Key recent publications
+## Key publications
 
 TODO:
 
-## Current funding
+## Funding
 
 TODO:
 

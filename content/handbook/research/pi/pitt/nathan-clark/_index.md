@@ -3,23 +3,23 @@ title: Nathan Clark
 type: docs
 ---
 
-![]()
+<img src="https://www.biology.pitt.edu/sites/default/files/Clark%20picture.jpg" width="300px">
 
--   **Rank:**
--   **Primary appointment:**
+-   **Rank:** Associate Professor
+-   **Primary appointment:** Department of Biological Sciences
 -   **Secondary appointment(s):**
--   **Email:**
+-   **Email:** <nclark@pitt.edu>
 -   **Website:**
 
 ## Research focus
 
 TODO:
 
-## Key recent publications
+## Key publications
 
 TODO:
 
-## Current funding
+## Funding
 
 TODO:
 

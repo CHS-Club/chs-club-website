@@ -3,7 +3,7 @@ title: Jianhua Xing
 type: docs
 ---
 
-![](https://www.isb.pitt.edu/sites/default/files/person-images/Xing%20photo.jpg)
+<img src="https://www.isb.pitt.edu/sites/default/files/person-images/Xing%20photo.jpg" width="300px">
 
 -   **Rank:** Associate Professor
 -   **Primary appointment:** [Department of Computational and Systems Biology](https://www.csb.pitt.edu/)
@@ -15,11 +15,11 @@ type: docs
 
 TODO:
 
-## Key recent publications
+## Key publications
 
 TODO:
 
-## Current funding
+## Funding
 
 TODO:
 

@@ -3,7 +3,7 @@ title: Lillian Chong
 type: docs
 ---
 
-![](https://chonglab-pitt.github.io/assets/images/people/LTC.jpg)
+<img src="https://chonglab-pitt.github.io/assets/images/people/LTC.jpg" width="300px">
 
 -   **Rank:** Professor
 -   **Primary appointment:** Department of Chemistry
@@ -15,11 +15,11 @@ type: docs
 
 TODO:
 
-## Key recent publications
+## Key publications
 
 TODO:
 
-## Current funding
+## Funding
 
 TODO:
 

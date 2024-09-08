@@ -3,7 +3,7 @@ title: Dennis Kostka
 type: docs
 ---
 
-![](https://www.isb.pitt.edu/sites/default/files/person-images/kosta%20updated%20pic.png)
+<img src="https://www.isb.pitt.edu/sites/default/files/person-images/kosta%20updated%20pic.png" width="300px">
 
 -   **Rank:** Associate Professor
 -   **Primary appointment:** [Department of Developmental Biology](https://www.devbio.pitt.edu/)
@@ -15,11 +15,11 @@ type: docs
 
 TODO:
 
-## Key recent publications
+## Key publications
 
 TODO:
 
-## Current funding
+## Funding
 
 TODO:
 

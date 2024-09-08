@@ -3,7 +3,7 @@ title: Jason Shoemaker
 type: docs
 ---
 
-![](https://www.shoemakerlab.pitt.edu/images/jason.jpg)
+<img src="https://www.shoemakerlab.pitt.edu/images/jason.jpg" width="300px">
 
 -   **Rank:** Associate Professor
 -   **Primary appointment:** Department of Chemical and Petroleum Engineering
@@ -15,11 +15,11 @@ type: docs
 
 TODO:
 
-## Key recent publications
+## Key publications
 
 TODO:
 
-## Current funding
+## Funding
 
 TODO:
 

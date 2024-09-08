@@ -3,10 +3,10 @@ title: Maria Chikina
 type: docs
 ---
 
-![]()
+<img src="https://www.csb.pitt.edu/wp-content/uploads/2024/02/Chikina-300x300-1.jpg" width="300px">
 
--   **Rank:**
--   **Primary appointment:**
+-   **Rank:** Assistant Professor
+-   **Primary appointment:** [Department of Computational and Systems Biology](https://www.csb.pitt.edu/)
 -   **Secondary appointment(s):**
 -   **Email:** <mchikina@pitt.edu>
 -   **Website:** <http://chikinalab.org/>
@@ -15,11 +15,11 @@ type: docs
 
 TODO:
 
-## Key recent publications
+## Key publications
 
 TODO:
 
-## Current funding
+## Funding
 
 TODO:
 
