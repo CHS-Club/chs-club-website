@@ -17,7 +17,7 @@ toc: false
 </div>
 
 <div class="hx-mb-6">
-{{< hextra/hero-button text="Get started" link="handbook" >}}
+{{< hextra/hero-button text="Get started" link="https://docs.google.com/forms/d/e/1FAIpQLSd8UBCgS0oXxjh3eXka1E9KHYxTmGumVDh3Lpl7wYPeAX1F3Q/viewform" >}}
 </div>
 
 <br>
