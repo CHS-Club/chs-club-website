@@ -31,8 +31,8 @@ menu:
     - name: Handbook
       pageRef: /handbook
       weight: 3
-    - name: Contact ↗
-      url: "mailto:comphealthsciclub@gmail.com"
+    - name: Join
+      url: "/join"
       weight: 4
     - name: Search
       weight: 5

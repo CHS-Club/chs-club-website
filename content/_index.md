@@ -12,12 +12,12 @@ toc: false
 
 <div class="hx-mb-12">
 {{< hextra/hero-subtitle >}}
-  Helping students discover opportunities within computational health sciences at Pitt
+  Helping students discover opportunities within computational health sciences at the [University of Pittsburgh](https://www.pitt.edu/).
 {{< /hextra/hero-subtitle >}}
 </div>
 
 <div class="hx-mb-6">
-{{< hextra/hero-button text="Get started" link="https://docs.google.com/forms/d/e/1FAIpQLSd8UBCgS0oXxjh3eXka1E9KHYxTmGumVDh3Lpl7wYPeAX1F3Q/viewform" >}}
+{{< hextra/hero-button text="Get started" link="/join" >}}
 </div>
 
 <br>
