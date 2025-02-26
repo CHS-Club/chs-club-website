@@ -70,7 +70,7 @@ params:
     displayToggle: true
 
   footer:
-    enable: true
+    enable: false
     displayCopyright: false
     displayPoweredBy: true
     width: normal
